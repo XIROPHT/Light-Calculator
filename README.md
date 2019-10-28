@@ -6,7 +6,7 @@ Light Calculator project (**Simple Calculator** or **Calculatrice Simple** in fr
 
 I have create this application in the past has a hobby and has a experience, **the application is not linked of Xiropht Project**.
 
-<h3>You can use this source code has example for do your own application with the Monogame engine.</h3>
+<h4>You can use this source code has example to do your own application with the Monogame engine.</h4>
 
 Language used: C#
 
