@@ -13,9 +13,11 @@ Language used: C#
 Tools used: Visual Studio (Xamarin)
 Technology used: **Mono Android** and **Monogame engine**.
 
-Application link: https://play.google.com/store/apps/details?id=com.xiropht.calculatricesimple
+<h2>Do a test:</h2>
 
 I don't have release an APK here, because you can test it on a cleaned APK published on Google Play.
+
+**Application link: https://play.google.com/store/apps/details?id=com.xiropht.calculatricesimple**
 
 If you want to give a donation don't hesitate.
 
