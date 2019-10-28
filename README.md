@@ -10,8 +10,9 @@ I have create this application in the past has a hobby and has a experience, **t
 
 Language used: C#
 
-Tools used: Visual Studio (Xamarin)
-Technology used: **Mono Android** and **Monogame engine**.
+-> Tools used: Visual Studio (Xamarin)
+
+-> Technology used: **Mono Android**, **MonoGame engine** and **MonoGame Pipeline Tool**.
 
 <h2>Do a test:</h2>
 
